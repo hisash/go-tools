@@ -1,0 +1,6 @@
+hash: 58fbda00cf32ab1742802a7a72d4b7e7c61ec5a334cc2b6bdb4695d767e0e835
+updated: 2017-08-04T19:32:48.388306809+09:00
+imports:
+- name: github.com/davecgh/go-spew
+  version: 346938d642f2ec3594ed81d874461961cd0faa76
+testImports: []
